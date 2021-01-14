@@ -26,7 +26,7 @@ public class Main_B_7453_합이0인네정수 {
 		
 	
 		long tmp;
-		int result=0;
+		long result=0;
 		for(int i=0;i<N;i++) {
 			for(int j=0;j<N;j++) {
 				tmp = (long)array[0][i]+array[1][j];
